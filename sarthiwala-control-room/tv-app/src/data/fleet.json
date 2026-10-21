@@ -1,0 +1,197 @@
+{
+  "operator": "Vadane Roadlines (demo)",
+  "trucks": [
+    {
+      "id": 1,
+      "regNo": "MH 12 QR 4021",
+      "driver": "Ramesh Pawar",
+      "from": "Pune",
+      "to": "Bengaluru",
+      "status": "on_trip",
+      "progress": 62,
+      "location": "Near Satara, NH48",
+      "etaHours": 3.4,
+      "checkInMinAgo": 12,
+      "load": "Steel coils, 14 t",
+      "payment": {
+        "party": "Shree Steel",
+        "amountInr": 18500,
+        "dueInDays": 3
+      }
+    },
+    {
+      "id": 2,
+      "regNo": "MH 14 GT 7788",
+      "driver": "Sunil Jadhav",
+      "from": "Pune",
+      "to": "Mumbai",
+      "status": "on_trip",
+      "progress": 81,
+      "location": "Khopoli, Mumbai-Pune Expy",
+      "etaHours": 1.1,
+      "checkInMinAgo": 25,
+      "load": "Packaged FMCG, 9 t",
+      "payment": null
+    },
+    {
+      "id": 3,
+      "regNo": "MH 12 AB 3310",
+      "driver": "Vijay Shinde",
+      "from": "Nashik",
+      "to": "Surat",
+      "status": "delayed",
+      "progress": 44,
+      "location": "Near Vapi, NH48",
+      "etaHours": 5.2,
+      "checkInMinAgo": 190,
+      "load": "Onions, 16 t",
+      "payment": {
+        "party": "Gujarat Agro",
+        "amountInr": 42000,
+        "dueInDays": 1
+      }
+    },
+    {
+      "id": 4,
+      "regNo": "MH 16 CD 9054",
+      "driver": "Anil Kale",
+      "from": "Ahmednagar",
+      "to": "Hyderabad",
+      "status": "on_trip",
+      "progress": 35,
+      "location": "Near Latur, NH361",
+      "etaHours": 9,
+      "checkInMinAgo": 40,
+      "load": "Cement bags, 20 t",
+      "payment": null
+    },
+    {
+      "id": 5,
+      "regNo": "MH 12 EF 1187",
+      "driver": "Mahesh Gaikwad",
+      "from": "Pune",
+      "to": "Nagpur",
+      "status": "idle",
+      "progress": 0,
+      "location": "Pune depot, Hadapsar",
+      "etaHours": 0,
+      "checkInMinAgo": 15,
+      "load": "Awaiting load",
+      "payment": {
+        "party": "Vidarbha Traders",
+        "amountInr": 27500,
+        "dueInDays": 2
+      }
+    },
+    {
+      "id": 6,
+      "regNo": "MH 15 HJ 6642",
+      "driver": "Prakash More",
+      "from": "Nashik",
+      "to": "Indore",
+      "status": "on_trip",
+      "progress": 70,
+      "location": "Near Dhule, NH52",
+      "etaHours": 2.6,
+      "checkInMinAgo": 8,
+      "load": "Auto parts, 11 t",
+      "payment": null
+    },
+    {
+      "id": 7,
+      "regNo": "MH 12 KL 2209",
+      "driver": "Sandeep Londhe",
+      "from": "Kolhapur",
+      "to": "Pune",
+      "status": "delayed",
+      "progress": 58,
+      "location": "Near Karad, NH48",
+      "etaHours": 2.9,
+      "checkInMinAgo": 210,
+      "load": "Sugar, 18 t",
+      "payment": {
+        "party": "Kolhapur Foods",
+        "amountInr": 15000,
+        "dueInDays": 0
+      }
+    },
+    {
+      "id": 8,
+      "regNo": "MH 14 MN 5531",
+      "driver": "Dattatray Bhosale",
+      "from": "Pune",
+      "to": "Goa",
+      "status": "on_trip",
+      "progress": 23,
+      "location": "Near Satara, NH48",
+      "etaHours": 10.5,
+      "checkInMinAgo": 33,
+      "load": "Tiles, 15 t",
+      "payment": null
+    },
+    {
+      "id": 9,
+      "regNo": "MH 17 PQ 8870",
+      "driver": "Rahul Kulkarni",
+      "from": "Shrirampur",
+      "to": "Mumbai",
+      "status": "on_trip",
+      "progress": 90,
+      "location": "Near Kasara Ghat",
+      "etaHours": 0.7,
+      "checkInMinAgo": 18,
+      "load": "Fertiliser, 12 t",
+      "payment": {
+        "party": "Konkan Pharma",
+        "amountInr": 33000,
+        "dueInDays": 5
+      }
+    },
+    {
+      "id": 10,
+      "regNo": "MH 12 ST 4412",
+      "driver": "Imran Shaikh",
+      "from": "Pune",
+      "to": "Ahmedabad",
+      "status": "idle",
+      "progress": 0,
+      "location": "Chakan yard",
+      "etaHours": 0,
+      "checkInMinAgo": 95,
+      "load": "Under maintenance",
+      "payment": null
+    },
+    {
+      "id": 11,
+      "regNo": "MH 20 UV 3098",
+      "driver": "Ganesh Patil",
+      "from": "Aurangabad",
+      "to": "Pune",
+      "status": "on_trip",
+      "progress": 48,
+      "location": "Near Ahmednagar, NH160",
+      "etaHours": 2.4,
+      "checkInMinAgo": 22,
+      "load": "Feed bags, 10 t",
+      "payment": {
+        "party": "Marathwada Poultry",
+        "amountInr": 21000,
+        "dueInDays": 4
+      }
+    },
+    {
+      "id": 12,
+      "regNo": "MH 12 WX 7765",
+      "driver": "Nitin Deshmukh",
+      "from": "Pune",
+      "to": "Solapur",
+      "status": "delayed",
+      "progress": 67,
+      "location": "Near Indapur, NH65",
+      "etaHours": 1.8,
+      "checkInMinAgo": 155,
+      "load": "Beverages, 8 t",
+      "payment": null
+    }
+  ]
+}
